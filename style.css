@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    
+}
+.btn{
+    height:200px;
+    width:200px;
+    border-radius: 20%;
+    border:5px solid black;
+    margin: 10px;
+}
+.button_container{
+    display: flex;
+    justify-content: center;
+
+}
+.red{
+    background-color: #ef3a55;
+}
+.green{
+    background-color: #4ab195;
+}
+.yellow{
+    background-color: yellow;
+}
+.purple{
+    background-color: #cc65a9;
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: #008744;
+}
