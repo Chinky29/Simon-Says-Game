@@ -13,3 +13,5 @@ The player must:
 👉 The game generates a random color each level.
 👉 Player must remember and repeat the entire growing sequence.
 👉 One mistake = restart.
+you can start to play on   https://chinky29.github.io/Simon-Says-Game/
+enjooeeee🫠🤗
