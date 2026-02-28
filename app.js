@@ -26,7 +26,7 @@ function userflash(btn){
 
 }
 function levelup(){
-    userpoint=[];
+    userpoint=[];  
     level++;
     h2.innerHTML=`Level ${level}`;
     let rand=Math.floor(Math.random() * 3);
